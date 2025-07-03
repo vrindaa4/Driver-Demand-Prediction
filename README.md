@@ -118,29 +118,25 @@ Driver-Demand-Prediction/
 └── requirements.txt
 
 ---
-
 ## ▶️ How to Run
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/vrindaa4/Driver-Demand-Prediction.git
 cd Driver-Demand-Prediction
-Create a virtual environment:
-
+2. Create a virtual environment
 bash
 Copy
 Edit
 python3 -m venv venv
 source venv/bin/activate
-Install dependencies:
-
+3. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Run the notebook or script:
-
+4. Run the notebook or script
 bash
 Copy
 Edit
@@ -148,11 +144,15 @@ jupyter notebook notebooks/DriverDemandPrediction.ipynb
 🚀 Future Work
 Add LSTM/GRU models for time-series deep learning
 
-Deploy model with Flask/Streamlit
+Deploy model with Flask or Streamlit
 
-Integrate real-time API data (weather, events)
+Integrate real-time API data (e.g., weather, events)
 
 👩‍💻 Author
 Vrinda Verma
 📧 Email: vrinda885@gmail.com
 🔗 GitHub: @vrindaa4
+
+yaml
+Copy
+Edit
