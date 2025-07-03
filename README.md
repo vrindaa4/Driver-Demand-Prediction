@@ -50,8 +50,8 @@ Ride-hailing platforms often struggle with under or over-supply of drivers durin
 ---
 
 ## 📂 Dataset
-
-> ⚠️ *Note: Please add dataset source info here*
+Name: Uber Pickups in New York City
+Source: NYC Open Data / Kaggle
 
 The dataset includes:
 - Timestamps  
